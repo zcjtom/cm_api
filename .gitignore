@@ -11,3 +11,7 @@
 
 # Maven build dir
 target
+
+# .idea
+.idea
+*.iml
